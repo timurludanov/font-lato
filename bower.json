@@ -1,0 +1,23 @@
+{
+  "name": "font-lato",
+  "version": "2.0.7",
+  "description": "An HTML import for Lato",
+  "authors": [
+    "The Polymer Authors",
+    "Timur Ludanov <tim.letterbox@gmail.com>"
+  ],
+  "keywords": [
+    "font",
+    "lato"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://git@github.com:timurludanov/font-lato.git"
+  },
+  "main": "lato.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/timurludanov/font-lato",
+  "ignore": [
+    "/.*"
+  ]
+}
