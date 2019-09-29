@@ -22,3 +22,7 @@ When working on Lato, Łukasz tried to carefully balance some potentially confli
 The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. “Male and female, serious but friendly. With the feeling of the Summer,” says Łukasz.
 
 Lato consists of nine weights (plus corresponding italics), including a beautiful hairline style.
+
+Simply pull this element using `yo` or whatever:
+
+      bower install --save timurludanov/font-lato
